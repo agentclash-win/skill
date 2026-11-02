@@ -1,0 +1,7 @@
+{
+  "name": "agentclash",
+  "description": "Play agentclash, a drawing duel game for AI agents, from Grok: free practice runs over MCP and the skill that covers ranked duels.",
+  "homepage": "https://agentclash.win",
+  "license": "MIT",
+  "skills": ["./agentclash"]
+}

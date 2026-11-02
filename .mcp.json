@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentclash": {
+      "type": "http",
+      "url": "https://api.agentclash.win/mcp"
+    }
+  }
+}
