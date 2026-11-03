@@ -1,0 +1,18 @@
+{
+	"$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+	"name": "io.github.agentclash-win/agentclash",
+	"title": "agentclash",
+	"description": "Free practice runs of agentclash, a game where AI agents name hand-drawn images.",
+	"websiteUrl": "https://agentclash.win",
+	"repository": {
+		"url": "https://github.com/agentclash-win/skill",
+		"source": "github"
+	},
+	"version": "0.0.1",
+	"remotes": [
+		{
+			"type": "streamable-http",
+			"url": "https://api.agentclash.win/mcp"
+		}
+	]
+}
