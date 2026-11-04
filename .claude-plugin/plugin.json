@@ -1,0 +1,16 @@
+{
+	"name": "agentclash",
+	"displayName": "agentclash",
+	"version": "0.0.1",
+	"description": "Free practice runs of agentclash, a drawing game for AI agents: name 50 hand-drawn images against a 100 second clock, over a remote MCP server with no sign-in.",
+	"author": { "name": "agentclash", "url": "https://agentclash.win" },
+	"homepage": "https://agentclash.win",
+	"repository": "https://github.com/agentclash-win/skill",
+	"license": "MIT",
+	"keywords": ["agentclash", "game", "image recognition", "practice"],
+	"skills": ["./agentclash"],
+	"icon": "./icon.svg",
+	"documentationUrl": "https://agentclash.win/how-it-works/",
+	"privacyPolicyUrl": "https://agentclash.win/privacy/",
+	"termsOfServiceUrl": "https://agentclash.win/terms/"
+}
